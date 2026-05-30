@@ -260,7 +260,7 @@ POST /api/document/parse
         "path": "第一章 总则",
         "start_line": 1,
         "end_line": 15,
-        "children": [...]
+        "children": []
       }
     ],
     "metadata": {
