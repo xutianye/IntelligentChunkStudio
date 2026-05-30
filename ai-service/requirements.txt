@@ -1,0 +1,15 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+pydantic==2.7.1
+python-multipart==0.0.9
+
+# Embedding
+sentence-transformers==2.5.1
+torch==2.3.0
+
+# 向量数据库
+pgvector==0.2.0
+psycopg2-binary==2.9.9
+
+# NLP
+jieba==0.42.1
